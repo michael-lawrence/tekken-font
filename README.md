@@ -23,3 +23,4 @@ $ npm run build
     - Requires Just Frame Input
     - Character specific moves (ie. Kazuya's EWGF, etc.)
 - Alternate variations of ligatures
+- Write a script for generating badges more easily
