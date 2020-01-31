@@ -108,217 +108,248 @@
             "name": "1234",
             "icon": "1234",
             "ligatures": [
-                "1+2+3+4"
+                "1+2+3+4",
+                " 1+2+3+4"
             ]
         },
         {
             "name": "123",
             "icon": "123",
             "ligatures": [
-                "1+2+3"
+                "1+2+3",
+                " 1+2+3"
             ]
         },
         {
             "name": "124",
             "icon": "124",
             "ligatures": [
-                "1+2+4"
+                "1+2+4",
+                " 1+2+4"
             ]
         },
         {
             "name": "134",
             "icon": "134",
             "ligatures": [
-                "1+3+4"
+                "1+3+4",
+                " 1+3+4"
             ]
         },
         {
             "name": "234",
             "icon": "234",
             "ligatures": [
-                "2+3+4"
+                "2+3+4",
+                " 2+3+4"
             ]
         },
         {
             "name": "12",
             "icon": "12",
             "ligatures": [
-                "1+2"
+                "1+2",
+                " 1+2"
             ]
         },
         {
             "name": "13",
             "icon": "13",
             "ligatures": [
-                "1+3"
+                "1+3",
+                " 1+3"
             ]
         },
         {
             "name": "14",
             "icon": "14",
             "ligatures": [
-                "1+4"
+                "1+4",
+                " 1+4"
             ]
         },
         {
             "name": "23",
             "icon": "23",
             "ligatures": [
-                "2+3"
+                "2+3",
+                " 2+3"
             ]
         },
         {
             "name": "24",
             "icon": "24",
             "ligatures": [
-                "2+4"
+                "2+4",
+                " 2+4"
             ]
         },
         {
             "name": "34",
             "icon": "34",
             "ligatures": [
-                "3+4"
+                "3+4",
+                " 3+4"
             ]
         },
         {
             "name": "dbh",
             "icon": "dbh",
             "ligatures": [
-                "D/B"
+                "D/B",
+                " D/B"
             ]
         },
         {
             "name": "dfh",
             "icon": "dfh",
             "ligatures": [
-                "D/F"
+                "D/F",
+                " D/F"
             ]
         },
         {
             "name": "SSL",
             "icon": "SSL",
             "ligatures": [
-                "SSL"
+                "SSL",
+                " SSL"
             ]
         },
         {
             "name": "SSR",
             "icon": "SSR",
             "ligatures": [
-                "SSR"
+                "SSR",
+                " SSR"
             ]
         },
         {
             "name": "ubh",
             "icon": "ubh",
             "ligatures": [
-                "U/B"
+                "U/B",
+                " U/B"
             ]
         },
         {
             "name": "ufh",
             "icon": "ufh",
             "ligatures": [
-                "U/F"
+                "U/F",
+                " U/F"
             ]
         },
         {
             "name": "db",
             "icon": "db",
             "ligatures": [
-                "d/b"
+                "d/b",
+                " d/b"
             ]
         },
         {
             "name": "df",
             "icon": "df",
             "ligatures": [
-                "d/f"
+                "d/f",
+                " d/f"
             ]
         },
         {
             "name": "hcb",
             "icon": "hcb",
             "ligatures": [
-                "hcb"
+                "hcb",
+                " hcb"
             ]
         },
         {
             "name": "hcf",
             "icon": "hcf",
             "ligatures": [
-                "hcf"
+                "hcf",
+                " hcf"
             ]
         },
         {
             "name": "or",
             "icon": "or",
             "ligatures": [
-                "(_)"
+                "(_)",
+                " (_)"
             ]
         },
         {
             "name": "qcb",
             "icon": "qcb",
             "ligatures": [
-                "qcb"
+                "qcb",
+                " qcb"
             ]
         },
         {
             "name": "qcf",
             "icon": "qcf",
             "ligatures": [
-                "qcf"
+                "qcf",
+                " qcf"
             ]
         },
         {
             "name": "ub",
             "icon": "ub",
             "ligatures": [
-                "u/b"
+                "u/b",
+                " u/b"
             ]
         },
         {
             "name": "uf",
             "icon": "uf",
             "ligatures": [
-                "u/f"
+                "u/f",
+                " u/f"
             ]
         },
         {
             "name": "FC",
             "icon": "FC",
             "ligatures": [
-                "FC"
+                "FC",
+                " FC"
             ]
         },
         {
             "name": "SS",
             "icon": "SS",
             "ligatures": [
-                "SS"
+                "SS",
+                " SS"
             ]
         },
         {
             "name": "WR",
             "icon": "WR",
             "ligatures": [
-                "WR"
+                "WR",
+                " WR"
             ]
         },
         {
             "name": "WS",
             "icon": "WS",
             "ligatures": [
-                "WS"
+                "WS",
+                " WS"
             ]
         },
         {
             "name": "wall",
             "icon": "wall",
             "ligatures": [
-                "W!"
+                "W!",
+                " W!"
             ]
         }
     ],

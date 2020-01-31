@@ -11,6 +11,14 @@ $ npm i
 $ npm run build
 ```
 
+## Example
+
+`WS 2 , f N d d/f 1+4 , d/f 3 , d/f 1 4 , d/f 1 4 W! , b 2 4 , d/f 1 4`
+
+becomes
+
+
+
 
 ## To do
 
