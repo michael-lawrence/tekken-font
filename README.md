@@ -17,7 +17,7 @@ $ npm run build
 
 becomes
 
-
+![sample](./sample/sample.png)
 
 
 ## To do
