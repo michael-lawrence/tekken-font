@@ -1,0 +1,29 @@
+{
+  "name": "tekken-font",
+  "version": "1.0.0",
+  "description": "Icon font for Tekken notation",
+  "main": "index.js",
+  "scripts": {
+    "build": "icon-font-buildr",
+    "icons": "node ./tools/stroke-to-outline.js ./src/svg ./dist/svg",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-lawrence/tekken-font.git"
+  },
+  "keywords": [
+    "tekken",
+    "font"
+  ],
+  "author": "Michael Lawrence <me@mikelawrence.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael-lawrence/tekken-font/issues"
+  },
+  "homepage": "https://github.com/michael-lawrence/tekken-font#readme",
+  "devDependencies": {
+    "icon-font-buildr": "^1.3.3"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,331 @@
+{
+    "sources": [
+        "./src/svg/[icon].svg",
+        "./src/svg/badges/[icon].svg",
+        "./src/svg/buttons/[icon].svg",
+        "./src/svg/directions/[icon].svg",
+        "./src/svg/directions-hold/[icon].svg"
+    ],
+    "icons": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "n",
+        "N",
+        {
+            "name": "u",
+            "icon": "u",
+            "codepoints": [
+                "\u0075"
+            ],
+            "ligatures": [
+                "char-u"
+            ]
+        },
+        {
+            "name": "d",
+            "icon": "d",
+            "codepoints": [
+                "\u0064"
+            ],
+            "ligatures": [
+                "char-d"
+            ]
+        },
+        {
+            "name": "f",
+            "icon": "f",
+            "codepoints": [
+                "\u0066"
+            ],
+            "ligatures": [
+                "char-f"
+            ]
+        },
+        {
+            "name": "b",
+            "icon": "b",
+            "codepoints": [
+                "\u0062"
+            ],
+            "ligatures": [
+                "char-b"
+            ]
+        },
+        {
+            "name": "U",
+            "icon": "uh",
+            "codepoints": [
+                "\u0055"
+            ],
+            "ligatures": [
+                "char-U"
+            ]
+        },
+        {
+            "name": "D",
+            "icon": "dh",
+            "codepoints": [
+                "\u0044"
+            ],
+            "ligatures": [
+                "char-D"
+            ]
+        },
+        {
+            "name": "F",
+            "icon": "fh",
+            "codepoints": [
+                "\u0046"
+            ],
+            "ligatures": [
+                "char-F"
+            ]
+        },
+        {
+            "name": "B",
+            "icon": "bh",
+            "codepoints": [
+                "\u0042"
+            ],
+            "ligatures": [
+                "char-B"
+            ]
+        },
+        {
+            "name": ",",
+            "icon": "comma",
+            "codepoints": [
+                "\u002C"
+            ],
+            "ligatures": [
+                "char-comma"
+            ]
+        },
+        {
+            "name": "1234",
+            "icon": "1234",
+            "ligatures": [
+                "1+2+3+4"
+            ]
+        },
+        {
+            "name": "123",
+            "icon": "123",
+            "ligatures": [
+                "1+2+3"
+            ]
+        },
+        {
+            "name": "124",
+            "icon": "124",
+            "ligatures": [
+                "1+2+4"
+            ]
+        },
+        {
+            "name": "134",
+            "icon": "134",
+            "ligatures": [
+                "1+3+4"
+            ]
+        },
+        {
+            "name": "234",
+            "icon": "234",
+            "ligatures": [
+                "2+3+4"
+            ]
+        },
+        {
+            "name": "12",
+            "icon": "12",
+            "ligatures": [
+                "1+2"
+            ]
+        },
+        {
+            "name": "13",
+            "icon": "13",
+            "ligatures": [
+                "1+3"
+            ]
+        },
+        {
+            "name": "14",
+            "icon": "14",
+            "ligatures": [
+                "1+4"
+            ]
+        },
+        {
+            "name": "23",
+            "icon": "23",
+            "ligatures": [
+                "2+3"
+            ]
+        },
+        {
+            "name": "24",
+            "icon": "24",
+            "ligatures": [
+                "2+4"
+            ]
+        },
+        {
+            "name": "34",
+            "icon": "34",
+            "ligatures": [
+                "3+4"
+            ]
+        },
+        {
+            "name": "dbh",
+            "icon": "dbh",
+            "ligatures": [
+                "D/B"
+            ]
+        },
+        {
+            "name": "dfh",
+            "icon": "dfh",
+            "ligatures": [
+                "D/F"
+            ]
+        },
+        {
+            "name": "SSL",
+            "icon": "SSL",
+            "ligatures": [
+                "SSL"
+            ]
+        },
+        {
+            "name": "SSR",
+            "icon": "SSR",
+            "ligatures": [
+                "SSR"
+            ]
+        },
+        {
+            "name": "ubh",
+            "icon": "ubh",
+            "ligatures": [
+                "U/B"
+            ]
+        },
+        {
+            "name": "ufh",
+            "icon": "ufh",
+            "ligatures": [
+                "U/F"
+            ]
+        },
+        {
+            "name": "db",
+            "icon": "db",
+            "ligatures": [
+                "d/b"
+            ]
+        },
+        {
+            "name": "df",
+            "icon": "df",
+            "ligatures": [
+                "d/f"
+            ]
+        },
+        {
+            "name": "hcb",
+            "icon": "hcb",
+            "ligatures": [
+                "hcb"
+            ]
+        },
+        {
+            "name": "hcf",
+            "icon": "hcf",
+            "ligatures": [
+                "hcf"
+            ]
+        },
+        {
+            "name": "or",
+            "icon": "or",
+            "ligatures": [
+                "(_)"
+            ]
+        },
+        {
+            "name": "qcb",
+            "icon": "qcb",
+            "ligatures": [
+                "qcb"
+            ]
+        },
+        {
+            "name": "qcf",
+            "icon": "qcf",
+            "ligatures": [
+                "qcf"
+            ]
+        },
+        {
+            "name": "ub",
+            "icon": "ub",
+            "ligatures": [
+                "u/b"
+            ]
+        },
+        {
+            "name": "uf",
+            "icon": "uf",
+            "ligatures": [
+                "u/f"
+            ]
+        },
+        {
+            "name": "FC",
+            "icon": "FC",
+            "ligatures": [
+                "FC"
+            ]
+        },
+        {
+            "name": "SS",
+            "icon": "SS",
+            "ligatures": [
+                "SS"
+            ]
+        },
+        {
+            "name": "WR",
+            "icon": "WR",
+            "ligatures": [
+                "WR"
+            ]
+        },
+        {
+            "name": "WS",
+            "icon": "WS",
+            "ligatures": [
+                "WS"
+            ]
+        },
+        {
+            "name": "wall",
+            "icon": "wall",
+            "ligatures": [
+                "W!"
+            ]
+        }
+    ],
+    "output": {
+        "ligatures": true,
+        "codepoints": true,
+        "fonts": "./dist",
+        "fontName": "Tekken"
+    }
+}
