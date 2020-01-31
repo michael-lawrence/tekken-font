@@ -1,9 +1,18 @@
 # Tekken Font
-Font for converting Tekken notation into button graphics
 
-### UNDER DEVELOPMENT!
+Font for displaying Tekken notation graphically
 
-## TODO
+## Building
+
+Download and install [Node.js](https://nodejs.org/).
+
+```
+$ npm i
+$ npm run build
+```
+
+
+## To do
 
 - Add ligatures for:
     - optional commands
