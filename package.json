@@ -4,9 +4,9 @@
   "description": "Icon font for Tekken notation",
   "main": "index.js",
   "scripts": {
-    "build": "icon-font-buildr",
-    "icons": "node ./tools/stroke-to-outline.js ./src/svg ./dist/svg",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run generate-badges && npm run build-fonts",
+    "build-fonts": "icon-font-buildr",
+    "generate-badges": "node ./src/tools/badge.js"
   },
   "repository": {
     "type": "git",
